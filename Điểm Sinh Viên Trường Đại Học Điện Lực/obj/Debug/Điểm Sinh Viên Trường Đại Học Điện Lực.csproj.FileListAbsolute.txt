@@ -1,0 +1,177 @@
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.exe.config
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.exe
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.pdb
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.Properties.Resources.resources
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.exe
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.pdb
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DiemChuyenNganh.resources
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DiemLop.resources
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DangNhap.resources
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DiemSinhVien.resources
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DieuHuong.resources
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.MonHoc.resources
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.TaiKhoan.resources
+C:\Users\Admin\source\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.TrangChu.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.exe.config
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.exe
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.pdb
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csprojAssemblyReference.cache
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DiemChuyenNganh.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DiemLop.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DangNhap.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DiemSinhVien.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DieuHuong.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.MonHoc.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.Properties.Resources.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.TaiKhoan.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.TrangChu.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csproj.GenerateResource.cache
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csproj.CoreCompileInputs.cache
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.exe
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.pdb
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.Reporting.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\EnvDTE.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\stdole.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.MSXML.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csproj.CopyComplete
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\aa-ER\Điểm Sinh Viên Trường Đại Học Điện Lực.resources.dll
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.Reporting.aa-ER.resources
+E:\Documents\repos\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\aa-ER\Điểm Sinh Viên Trường Đại Học Điện Lực.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.exe.config
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.exe
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.pdb
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\aa-ER\Điểm Sinh Viên Trường Đại Học Điện Lực.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\EnvDTE.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\stdole.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\Microsoft.MSXML.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csproj.AssemblyReference.cache
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DiemChuyenNganh.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DiemLop.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DangNhap.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DiemSinhVien.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.DieuHuong.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.MonHoc.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.Properties.Resources.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.Reporting.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.TaiKhoan.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.TrangChu.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm_Sinh_Viên_Trường_Đại_Học_Điện_Lực.Reporting.aa-ER.resources
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csproj.GenerateResource.cache
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csproj.CoreCompileInputs.cache
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\aa-ER\Điểm Sinh Viên Trường Đại Học Điện Lực.resources.dll
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.csproj.CopyComplete
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.exe
+E:\Documents\DiemSinhVien\Điểm Sinh Viên Trường Đại Học Điện Lực\Điểm Sinh Viên Trường Đại Học Điện Lực\obj\Debug\Điểm Sinh Viên Trường Đại Học Điện Lực.pdb
